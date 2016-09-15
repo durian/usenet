@@ -1,0 +1,2 @@
+# usenet
+Collect usenet messages
