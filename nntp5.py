@@ -160,7 +160,7 @@ for server, server_cfg in servers:
 saved = {}
 
 for server in servers_config:
-    #    "xs4all": ["news.xs4all.nl", "pberck", "my88sore"] }
+    #
     host     = servers_config[server]['host']
     username = servers_config[server]['username']
     password = servers_config[server]['password']
